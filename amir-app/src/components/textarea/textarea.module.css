@@ -1,0 +1,22 @@
+/* .textareaWrapper{
+
+} */
+
+.textareaWrapper label{
+    display: block;
+    margin-bottom: 10px;
+    text-align: right;
+
+}
+
+
+.textareaWrapper textarea{
+    width: 100%;
+    min-height: 150px;
+    border: 1px solid #ccc;
+    text-align: right;
+}
+
+
+
+

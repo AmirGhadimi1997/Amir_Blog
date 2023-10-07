@@ -1,0 +1,16 @@
+.aboutPage{
+  text-align: center;
+
+}
+
+.aboutPage h1{
+  margin: 40px 0;
+  text-align: right;
+}
+
+.aboutPage p{
+    text-align: right;
+    margin: 40px 0;
+  }
+
+
